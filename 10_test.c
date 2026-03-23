@@ -1,10 +1,14 @@
-// 14강 개념 : 반복문(while)
+// 14강 개념 : 반복문(while) - 주어진 조건이 참인 동안 계속해서 코드를 반복 실행하는 구조
 #include <stdio.h>
 
 #pragma warning(disable : 4996)
 
 
 int main(void) {
+    // while (조건식) {
+    //     // 반복 실행할 코드
+    // }
+
     // 반복문
     // int i = 1; // 시작값
     // while (i <= 10) { // 끝값
