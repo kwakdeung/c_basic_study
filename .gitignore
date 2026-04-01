@@ -4,4 +4,7 @@
 *.out
 *.txt
 *.exe
+*.ilk
+*.obj
+*.pdb
 ~*.pptx
